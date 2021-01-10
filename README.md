@@ -12,4 +12,3 @@ This is a game of Checkers I created using pygame in Python!
 
 ## More Details:
 The game has features such as 'kinging' and double jumping. Credits also given to TechWithTim!
-
