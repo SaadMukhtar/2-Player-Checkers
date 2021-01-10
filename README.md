@@ -10,5 +10,7 @@ This is a game of Checkers I created using pygame in Python!
 - Download files, install pygame, and run 'main,py'
 - Enjoy!
 
+
+
 #### Other ####
 The game has features such as 'kinging' and double jumping. Credits also given to TechWithTim.
